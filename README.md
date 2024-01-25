@@ -1,2 +1,3 @@
 # proyectoFinal
-- vamos abordar el problema del calentamiento global y sus derivados. 
+- vamos abordar el problema del calentamiento global y sus derivados.
+## soluciones
